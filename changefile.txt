@@ -1,0 +1,6 @@
+서울특별시 가로쓰레기통 설치정보_202312 => seoul_trash_can_install
+스마트서울 도시데이터 센서(S-DoT) 유동인구 측정 정보 => smart_seoul_citydata_sensor_population
+서울시버스정류소위치정보(20240404) => seoul_bus_stop_location
+서울시 역사마스터 정보 => seoul_history_master_information
+서울시 상권분석서비스(집객시설-행정동) => seoul_market_area_analysis
+서울시 주요 공원현황 => seoul_national_park
