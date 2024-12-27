@@ -40,5 +40,6 @@
 
 ## 프로젝트 결과
 ex) 버스 - 생활인구 연관 군집 결과 시각화<br>
-
+![image](./image/bus_population.jpg)<br>
 ex) 지하철 - 생활인구 연관 군집 결과 시각화<br>
+![image](./image/subway_population.jpg)<br>
